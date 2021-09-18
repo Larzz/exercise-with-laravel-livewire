@@ -1,5 +1,7 @@
 ## Execise 1
 
+I used Laravel & livewire and tailwindcss.
+
 ### Requirement
 
 - Php 7.4^
@@ -19,3 +21,6 @@
 - run the migration
 - run the php artisan db:seed to populate dummy data
 - run test php artisan test
+
+
+
