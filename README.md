@@ -2,6 +2,8 @@
 
 I used Laravel & livewire and tailwindcss.
 
+This exercise shows nested page up 10x or even more.
+
 ### Requirement
 
 - Php 7.4^
